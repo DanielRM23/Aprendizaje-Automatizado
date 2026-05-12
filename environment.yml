@@ -1,0 +1,13 @@
+name: aprendizaje_automatizado
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tensorflow
+  - keras
+  - jupyter
